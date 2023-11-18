@@ -1,8 +1,8 @@
 local updateLinks = {
-    ['bridge/esx.lua'] = 'https://raw.githubusercontent.com/irhagram/fmid_garasi/main/bridge/esx.lua?token=GHSAT0AAAAAACKIM76GVWQIR2F2CQLJI6RIZKYCFGA',
-    ['bridge/qb.lua'] = 'https://raw.githubusercontent.com/irhagram/fmid_garasi/main/bridge/qb.lua?token=GHSAT0AAAAAACKIM76GM4TBMPEL5IDELPIMZKYCFRA',
-    ['bridge/utils.lua'] = 'https://raw.githubusercontent.com/irhagram/fmid_garasi/main/bridge/utils.lua?token=GHSAT0AAAAAACKIM76GYPJY7Q5QLSESUDYEZKYCFYQ',
-    ['client/client.lua'] = 'https://raw.githubusercontent.com/irhagram/fmid_garasi/main/client/client.lua?token=GHSAT0AAAAAACKIM76H55JG54WNJXO6X6YUZKYCGPA',
+    ['bridge/esx.lua'] = 'https://raw.githubusercontent.com/irhamff/__/main/bridge/esx.lua',
+    ['bridge/qb.lua'] = 'https://raw.githubusercontent.com/irhamff/__/main/bridge/qb.lua',
+    ['bridge/utils.lua'] = 'https://raw.githubusercontent.com/irhamff/__/main/bridge/utils.lua',
+    ['client/client.lua'] = 'https://raw.githubusercontent.com/irhamff/__/main/client/client.lua',
     ['server/server.lua'] = 'https://raw.githubusercontent.com/irhagram/fmid_garasi/main/server/server.lua?token=GHSAT0AAAAAACKIM76GWWY5PYQJJENLU2IWZKYCG7Q',
     ['fxmanifest.lua'] = 'https://raw.githubusercontent.com/irhagram/fmid_garasi/main/fxmanifest.lua?token=GHSAT0AAAAAACKIM76HRHP62R72D2TVCTZCZKYCI2A',
 }
